@@ -32,7 +32,4 @@ After downloading data from the Ministry of Land, 2016-2018 apartment sales, the
 
 
 
-#The Distribution of Apartment Price according to the Year of Architecture in the Seoul Metropolitan Area 
-
-![4)서울시 지역구별 건축년도에 따른 아파트 가격 분포](https://user-images.githubusercontent.com/47768004/67614773-8a43da80-f7fd-11e9-8273-309ce7ea48fb.png)
 
